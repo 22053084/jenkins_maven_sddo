@@ -6,8 +6,9 @@ package com.sddevops.jenkins_maven.eclipse;
  */
 public class App 
 {
-    public static void main( String[] args )
+    public static int apptest()
     {
-        System.out.println( "Hello World (after change)!" );
+        return 10 ;
+        
     }
 }
